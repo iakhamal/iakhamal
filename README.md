@@ -9,7 +9,7 @@ I'm currently pursuing my 4th year Network Engineering degree at ENSA-Morocco. M
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [imaneakhamal@gmail.com](mailto:imaneakhamal@gmail.com)
 * 🧠  I'm learning How to apply ML/DL in Cybersecurity
-* 🤝  I'm open to collaborating on In any related project to either Cybersecurity, or ML/DL
+* 🤝  I'm open to collaborating on any related project to either Cybersecurity, or ML/DL
 
 ### Skills
 
